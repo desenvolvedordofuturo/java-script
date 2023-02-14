@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(90, 90, 219);
+    font: normal 25pt Arial;
+    font-size: larger;
+    
+
+}
+
+header {
+    color: white;
+    text-align: center;
+    
+}
+
+section {
+    background: white;
+    border-radius: 20px;
+    padding: 80px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.486);
+}
+div {
+    text-align: center;
+    padding: 8px;
+
+}
+
+img {
+    border-radius: 20%;
+    width: 400px;
+    height: 400px;
+}
+
+.id {
+    margin: center;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: italic;
+}
